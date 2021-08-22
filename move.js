@@ -1,6 +1,6 @@
 import { snakeBody, body, gameBoard } from "./body.js";
 import { check_eat, food } from "./food.js";
-import { checkDead } from "./game over.js";
+import { checkDead } from "./game-over.js";
 
 let dir_up = false;
 let dir_down = false;
