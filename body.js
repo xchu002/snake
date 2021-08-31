@@ -2,10 +2,7 @@ export let snakeBody = [
     {x:10,y:11},
     {x:11,y:11},
     {x:12,y:11},
-    {x:13,y:11},
-    {x:14,y:11},
-    {x:15,y:11},
-    {x:16,y:11},
+    
 ];
 export let gameBoard = document.querySelector("#game-board");
 
